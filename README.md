@@ -31,3 +31,14 @@ The following inferences were made after analyzing data and the plots used in th
 3. Out of the top 10 countries affected most by COVID-19, the country with the maximum recovered cases out of confirmed is Germany          standing strong at 95%. 
 4. Geovisualization using bubble map has proved to be ideal for keeping a track of COVID-19.
 
+
+
+
+
+
+
+
+
+
+
+
